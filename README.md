@@ -10,7 +10,7 @@ Major key differences between June and December temperature
 
 ![comp](comp.png)
 
-#Summary
+## Summary
 Overall, it is sustainable to run the ice-cream business year around due to the slight variance in average temperature. Two additional queries were made to visualize this distribution of temperature to produce the following images. These images directly visualize the distribution of weather temperature, and further confirm that is is sustainable to have an ice cream business year around. 
 
 ![june_temps_p](june_temps_p.png)
